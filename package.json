@@ -1,0 +1,25 @@
+{
+  "name": "typescriptlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goraw/typescriptlab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goraw/typescriptlab/issues"
+  },
+  "homepage": "https://github.com/goraw/typescriptlab#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
